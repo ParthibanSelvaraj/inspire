@@ -1,0 +1,18 @@
+{
+    "name": "parthiban/inspire",
+    "description": "Laravel Package",
+    "autoload": {
+        "psr-4": {
+            "Parthiban\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ParthibanSelvaraj",
+            "email": "parthiban1470@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
